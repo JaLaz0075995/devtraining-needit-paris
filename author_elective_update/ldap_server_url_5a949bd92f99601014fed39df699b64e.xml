@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ldap_server_url">
+    <ldap_server_url action="DELETE">
+        <active>true</active>
+        <operational_status>false</operational_status>
+        <order>100</order>
+        <server display_value="DemoLDAPIntegration">71cec3192f99601014fed39df699b61b</server>
+        <sys_class_name>ldap_server_url</sys_class_name>
+        <sys_created_by>boxfobber</sys_created_by>
+        <sys_created_on>2020-12-24 19:24:19</sys_created_on>
+        <sys_id>5a949bd92f99601014fed39df699b64e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>ldap.forumsys.com</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>ldap_server_url_5a949bd92f99601014fed39df699b64e</sys_update_name>
+        <sys_updated_by>boxfobber</sys_updated_by>
+        <sys_updated_on>2020-12-24 19:26:57</sys_updated_on>
+        <url>ldap.forumsys.com</url>
+    </ldap_server_url>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b4fa5549dbf15b484c1ff70fbf9619da</instance_id>
+        <instance_name>dev57855</instance_name>
+        <name>ldap_server_url_5a949bd92f99601014fed39df699b64e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ldap_server_url"><ldap_server_url action="INSERT_OR_UPDATE"><active>true</active><operational_status>false</operational_status><order>100</order><server display_value="DemoLDAPIntegration">71cec3192f99601014fed39df699b61b</server><sys_class_name>ldap_server_url</sys_class_name><sys_created_by>boxfobber</sys_created_by><sys_created_on>2020-12-24 19:24:19</sys_created_on><sys_id>5a949bd92f99601014fed39df699b64e</sys_id><sys_mod_count>3</sys_mod_count><sys_name>ldap.forumsys.com</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>ldap_server_url_5a949bd92f99601014fed39df699b64e</sys_update_name><sys_updated_by>boxfobber</sys_updated_by><sys_updated_on>2020-12-24 19:26:57</sys_updated_on><url>ldap.forumsys.com</url></ldap_server_url></record_update>]]></payload>
+        <payload_hash>-1150773917</payload_hash>
+        <record_name>ldap.forumsys.com</record_name>
+        <reverted_from/>
+        <source>636ad0e82f55201014fed39df699b629</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>boxfobber</sys_created_by>
+        <sys_created_on>2020-12-24 19:26:57</sys_created_on>
+        <sys_id>20165bd92f99601014fed39df699b622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1769637f25b0000001</sys_recorded_at>
+        <sys_updated_by>boxfobber</sys_updated_by>
+        <sys_updated_on>2020-12-24 19:26:57</sys_updated_on>
+        <type>LDAP Server URL</type>
+        <update_guid>68165bd90f99601041f16fd79e892321</update_guid>
+        <update_guid_history>68165bd90f99601041f16fd79e892321:-1150773917,d806d71d6399601098e36978888f8d1d:162745431,9775971d2b996010e5ab979bedd4eb18:-1150773917,0275971d7c996010fcee45bab81631f0:1270533094</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ldap.forumsys.com">7a86d71d2f99601014fed39df699b625</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>boxfobber</sys_created_by>
+        <sys_created_on>2020-12-24 19:29:01</sys_created_on>
+        <sys_db_object display_value="" name="ldap_server_url">ldap_server_url</sys_db_object>
+        <sys_id>6030de766fd8475e85b3ab42bbb39709</sys_id>
+        <sys_metadata>5a949bd92f99601014fed39df699b64e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ldap.forumsys.com</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>ldap_server_url_5a949bd92f99601014fed39df699b64e</sys_update_name>
+        <sys_update_version display_value="ldap_server_url_5a949bd92f99601014fed39df699b64e">20165bd92f99601014fed39df699b622</sys_update_version>
+        <sys_updated_by>boxfobber</sys_updated_by>
+        <sys_updated_on>2020-12-24 19:29:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
